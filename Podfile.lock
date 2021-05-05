@@ -1,0 +1,33 @@
+PODS:
+  - AWSCognito (2.19.1):
+    - AWSCore (= 2.19.1)
+  - AWSCore (2.19.1)
+  - AWSS3 (2.19.1):
+    - AWSCore (= 2.19.1)
+  - EMTNeumorphicView (1.0.4)
+  - SSZipArchive (2.2.3)
+
+DEPENDENCIES:
+  - AWSCognito
+  - AWSS3
+  - EMTNeumorphicView
+  - SSZipArchive
+
+SPEC REPOS:
+  trunk:
+    - AWSCognito
+    - AWSCore
+    - AWSS3
+    - EMTNeumorphicView
+    - SSZipArchive
+
+SPEC CHECKSUMS:
+  AWSCognito: f50de600804941d083af37a7568905f31a774727
+  AWSCore: 55c154ae27efc5c98bdc30a0eeea5a35d10a2ab5
+  AWSS3: 2272253b098d07803af8dd20ce6ce7302bcffb47
+  EMTNeumorphicView: cb5e92953e43b1872ab47fefd451a9ce0c16fc77
+  SSZipArchive: 62d4947b08730e4cda640473b0066d209ff033c9
+
+PODFILE CHECKSUM: 76683e2b58d614e7ebd2aad0fb08a79968591adc
+
+COCOAPODS: 1.10.1

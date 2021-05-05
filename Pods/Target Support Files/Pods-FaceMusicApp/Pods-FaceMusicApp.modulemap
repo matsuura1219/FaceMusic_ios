@@ -1,0 +1,6 @@
+framework module Pods_FaceMusicApp {
+  umbrella header "Pods-FaceMusicApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
